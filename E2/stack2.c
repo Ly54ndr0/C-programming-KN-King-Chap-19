@@ -1,6 +1,8 @@
 /* Solution for Exercise 2 from chapter 19 from */
 /* C programming, a modern approach by K N King */
 
+// This is a stack module
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "stack.h"
