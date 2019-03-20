@@ -38,7 +38,7 @@ Item queue_return_last(void);
 
 /*
 queue_is_empty:
-Testes   whether  the   pre-set  queue  is  empty,
+Tests   whether  the   pre-set  queue  is  empty,
 returning true or false.
 */
 bool queue_is_empty(void);
