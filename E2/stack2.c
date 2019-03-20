@@ -1,4 +1,4 @@
-/* Solution for Exercise 1 from chapter 19 from */
+/* Solution for Exercise 2 from chapter 19 from */
 /* C programming, a modern approach by K N King */
 
 #include <stdio.h>
